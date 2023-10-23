@@ -4,6 +4,7 @@ Suivez ici les updates du site beta.next.ink
 
 ## 2023/10/20
 
+- [fix] correction des bugs des filtres par catégorie
 - [fix] envoi du mail de réinitialisation du mot de passe (y compris avec le pseudo)
 - [fix] réinitialisation du mot de passe
 - [fix] correction de la connexion (modulo le cache)
