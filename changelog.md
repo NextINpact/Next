@@ -2,7 +2,13 @@
 
 Suivez ici les updates du site beta.next.ink 
 
-##2023/10/19
+## 2023/10/20
+
+- [fix] envoi du mail de réinitialisation du mot de passe (y compris avec le pseudo)
+- [fix] réinitialisation du mot de passe
+- [fix] correction de la connexion (modulo le cache)
+
+## 2023/10/19
 - [change] [#5](https://github.com/NextINpact/Next/issues/5) nouvelle redirection pour le login
 - [feature] [#22](https://github.com/NextINpact/Next/issues/22) ajout des filtres par catégories (quelques bugs à fix)
 - [privacy] Supression des appels à googleapi
