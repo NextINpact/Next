@@ -2,6 +2,10 @@
 
 Suivez ici les updates du site beta.next.ink 
 
+## 2023/10/25
+
+- [feature] [#1](https://github.com/NextINpact/Next/issues/1) ajout d'un flux RSS custom, reste l'intégration dans le profil et le flux pour les briefs à faire
+
 ## 2023/10/20
 
 - [fix] correction des bugs des filtres par catégorie
